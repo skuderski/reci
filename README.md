@@ -1,2 +1,1 @@
-# reci
-reci
+This is my first project. It's about recipes
