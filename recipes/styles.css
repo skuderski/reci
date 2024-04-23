@@ -1,0 +1,40 @@
+.first {
+    background-color:rgb(162, 162, 230);
+}
+.second {
+    background-color:rgb(225, 129, 129)
+}
+.third {
+    background-color:aliceblue;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-top: -8px;
+    
+}
+
+h2 {
+    color:rgb(238, 172, 183);
+    text-align: center;
+    padding: 30px;
+    border: 10px;
+    border-style: groove;
+    border-color: black;
+}
+
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 10px;
+}
